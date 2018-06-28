@@ -1,0 +1,381 @@
+[
+    [
+        "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app",
+        {
+            "sourcePath": "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1530168907597,
+            "changeTime": 1530168907597,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1530168907598,
+            "changeTime": 1530168907598,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530170352660,
+            "changeTime": 1530170352660,
+            "contentHash": "a81adfb38730e0617c926d6068400ef4b82f1bf2"
+        }
+    ],
+    [
+        "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1530169191977,
+            "changeTime": 1530169191977,
+            "contentHash": "e52c854d5631eec7468ba4727b4c77eb745f2965",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\aura\\Demo",
+        {
+            "sourcePath": "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\aura\\Demo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1530169191991,
+            "changeTime": 1530169191991,
+            "contentHash": "43ddf5730caa5f429a02f9794295fa86dc177f7a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+        {
+            "sourcePath": "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1530169191990,
+            "changeTime": 1530169191990,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+        {
+            "sourcePath": "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+            "isDirectory": false,
+            "size": 193,
+            "modifiedTime": 1530169317019,
+            "changeTime": 1530169317019,
+            "contentHash": "37d0de57822d8df34c1c9fa6810e941885fb540d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 236,
+            "modifiedTime": 1530169191979,
+            "changeTime": 1530169191979,
+            "contentHash": "e5e7db39d75083e3ba59f046262b4d8fda21dfe5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+        {
+            "sourcePath": "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1530169191984,
+            "changeTime": 1530169191984,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+        {
+            "sourcePath": "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1530169191992,
+            "changeTime": 1530169191992,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+        {
+            "sourcePath": "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1530169191988,
+            "changeTime": 1530169191988,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+        {
+            "sourcePath": "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1530169191981,
+            "changeTime": 1530169191981,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+        {
+            "sourcePath": "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1530169191982,
+            "changeTime": 1530169191982,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1530169191986,
+            "changeTime": 1530169191986,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo",
+        {
+            "sourcePath": "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1530169353169,
+            "changeTime": 1530169353169,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 697,
+            "modifiedTime": 1530170352641,
+            "changeTime": 1530170352641,
+            "contentHash": "18b25e21317d0870bcfa37943f98065da3924d20"
+        }
+    ],
+    [
+        "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 310,
+            "modifiedTime": 1530170352647,
+            "changeTime": 1530170352647,
+            "contentHash": "953a31ab5b0e3b3de9aaafb4c7a2de615761dc5d"
+        }
+    ],
+    [
+        "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\applications\\standard__LightningBolt.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\applications\\standard__LightningBolt.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 463,
+            "modifiedTime": 1530170352651,
+            "changeTime": 1530170352651,
+            "contentHash": "b1fd1f7ea11e10be6d7d82d7890f53dd56180edf"
+        }
+    ],
+    [
+        "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1041,
+            "modifiedTime": 1530170352655,
+            "changeTime": 1530170352655,
+            "contentHash": "4e1c555e89ee6ac79ef1d86818bb828285e458c4"
+        }
+    ],
+    [
+        "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5027,
+            "modifiedTime": 1530170352686,
+            "changeTime": 1530170352686,
+            "contentHash": "58a60d5ca0cc83a17170636e8bf87d7bcb4e2f97"
+        }
+    ],
+    [
+        "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4689,
+            "modifiedTime": 1530170352686,
+            "changeTime": 1530170352686,
+            "contentHash": "ba0d595c7b633338be46047b7ba9e18d07f0981e"
+        }
+    ],
+    [
+        "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4689,
+            "modifiedTime": 1530170352686,
+            "changeTime": 1530170352686,
+            "contentHash": "ba0d595c7b633338be46047b7ba9e18d07f0981e"
+        }
+    ],
+    [
+        "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18106,
+            "modifiedTime": 1530170352704,
+            "changeTime": 1530170352704,
+            "contentHash": "a18c4c36a7426694ea048d0a2be95c835e520c9b"
+        }
+    ],
+    [
+        "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530170352640,
+            "changeTime": 1530170352640,
+            "contentHash": "a1a96b41743564d0d68beaf118bef8b784942b87"
+        }
+    ],
+    [
+        "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530170352646,
+            "changeTime": 1530170352646,
+            "contentHash": "27e8f7b485188049a8ccb6bc0edc3694c6635ab6"
+        }
+    ],
+    [
+        "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\applications",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530170352654,
+            "changeTime": 1530170352654,
+            "contentHash": "67d822ca2207a222bc2801bf62dabcf939d8a585"
+        }
+    ],
+    [
+        "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\z.cheow\\phonechangeappbyzx\\Demo\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530170352703,
+            "changeTime": 1530170352703,
+            "contentHash": "28a941c36edc4d0e24ad208bddbadc4530145796"
+        }
+    ]
+]
